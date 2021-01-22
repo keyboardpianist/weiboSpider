@@ -1,0 +1,7 @@
+.git
+.github
+.idea
+/weibospider/job.mem/
+/weibospider/log.log
+/weibospider/__pycache__/
+/weibospider/spiders/__pycache__/
